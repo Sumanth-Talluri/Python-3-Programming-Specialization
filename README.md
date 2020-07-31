@@ -6,6 +6,6 @@ It contains the following files :
 * Assignment 1
 * Project
 
-:computer: **View Course [here](https://www.coursera.org/specializations/python-3-programming)**
+:computer: &nbsp; **View Course [here](https://www.coursera.org/specializations/python-3-programming)**
 
-:star: **View my Certificate [here](https://coursera.org/share/93185877e08f49901f46d03346f12524)**
+:star: &nbsp; **View my Certificate [here](https://coursera.org/share/93185877e08f49901f46d03346f12524)**
